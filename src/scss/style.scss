@@ -1,0 +1,22 @@
+html,
+body{
+  height: 100%;
+}
+
+body.look{
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1230px;
+  width: 100%;
+  padding: 30px 15px;
+  margin: 0 auto;
+}
+
+.mySelect {
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
